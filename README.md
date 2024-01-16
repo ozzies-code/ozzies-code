@@ -1,4 +1,5 @@
-### Hi there 👋
+### ![1a](https://github.com/ozzies-code/ozzies-code/assets/83247451/34d564cf-f98d-43d4-ae2b-9133b14a8d78)
+Hi there 👋
 
 <!--
 **ozzies-code/ozzies-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
