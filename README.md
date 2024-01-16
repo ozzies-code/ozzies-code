@@ -1,5 +1,5 @@
 ### ![foto_preview](https://github.com/ozzies-code/ozzies-code/assets/83247451/55150f05-936b-45cd-aa2c-d450c468df61)
-![foto_preview](https://github.com/ozzies-code/ozzies-code/assets/83247451/e9d37ee1-e46b-457e-9191-b2ad4b3dd399)
+Oswaldo Jesus Marin Pages
 
 Lic / Ing en Computacion
 Web Dev 👋
