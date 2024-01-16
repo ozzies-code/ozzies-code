@@ -1,5 +1,7 @@
 ### ![foto_preview](https://github.com/ozzies-code/ozzies-code/assets/83247451/55150f05-936b-45cd-aa2c-d450c468df61)
-Oswaldo Jesus Marin Pages  👋
+Oswaldo Jesus Marin Pages
+Lic / Ing en Computacion
+Web Dev 👋
 
 <!--
 **ozzies-code/ozzies-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
