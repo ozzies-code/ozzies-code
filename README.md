@@ -1,4 +1,5 @@
-### ![1a](https://github.com/ozzies-code/ozzies-code/assets/83247451/34d564cf-f98d-43d4-ae2b-9133b14a8d78)
+### ![foto_preview](https://github.com/ozzies-code/ozzies-code/assets/83247451/d02c8b0f-82ed-4475-824a-292484765352)
+
 Hi there 👋
 
 <!--
