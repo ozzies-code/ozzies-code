@@ -1,4 +1,4 @@
-### ![foto_preview](https://github.com/ozzies-code/ozzies-code/assets/83247451/d02c8b0f-82ed-4475-824a-292484765352)
+### ![Uploading 2022-04-30-21-38-localhost1.png…]()
 
 Hi there 👋
 
