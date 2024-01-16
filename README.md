@@ -11,8 +11,12 @@ Web Developer 👋
 - 📫 How to reach me: ozzies.code@zohomail.com
 - 😄 Pronouns: OJMP
 - ⚡ Fun fact: The Programming is nothing boring
-
+See some of my web projects:
 ![menuprincipal](https://github.com/ozzies-code/ozzies-code/assets/83247451/56202684-2041-4c6f-ac0d-74bc4878aa95)
+![miformulario](https://github.com/ozzies-code/ozzies-code/assets/83247451/9a0a2e12-e91e-4e60-9df6-576ca1922539)
+![misredes](https://github.com/ozzies-code/ozzies-code/assets/83247451/c02db9d5-e259-4b7c-b0a4-c91b1afeba13)
+
+
 
 <!--
 
