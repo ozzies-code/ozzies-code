@@ -1,5 +1,5 @@
 ### ![foto_preview](https://github.com/ozzies-code/ozzies-code/assets/83247451/55150f05-936b-45cd-aa2c-d450c468df61)
-Hi there 👋
+Oswaldo Jesus Marin Pages  👋
 
 <!--
 **ozzies-code/ozzies-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
