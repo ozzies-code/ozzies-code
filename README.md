@@ -1,7 +1,7 @@
 ### ![foto_preview](https://github.com/ozzies-code/ozzies-code/assets/83247451/55150f05-936b-45cd-aa2c-d450c468df61)
 Oswaldo Jesus Marin Pages
-Ozzies_Code
-Lic / Ing en Computacion
+(Ozzies_Code)--------->
+Lic / Ing en Computacion------------>
 Web Developer 👋
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning about php, javascript, c, c++, .net, jquery,  html, css, framewoorks css as bootstrap, bulma, pure, w3.css
