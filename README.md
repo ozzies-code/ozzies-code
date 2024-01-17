@@ -16,9 +16,9 @@ My Professional Skills are Front End Development, Backend development through la
 
 I also provide Consulting and focus on Functional and Software Requirements Analysis as well as SQL Database Management and Version Control through Git and Github.
 
-See some of my web projects:
+web projects in that I am working:
 ![misredes](https://github.com/ozzies-code/ozzies-code/assets/83247451/c02db9d5-e259-4b7c-b0a4-c91b1afeba13)
-
+https://github.com/ozzies-code/misredes3.html
 
 ![menuprincipal](https://github.com/ozzies-code/ozzies-code/assets/83247451/56202684-2041-4c6f-ac0d-74bc4878aa95)
 
@@ -26,6 +26,7 @@ See some of my web projects:
 ![miformulario](https://github.com/ozzies-code/ozzies-code/assets/83247451/9a0a2e12-e91e-4e60-9df6-576ca1922539)
 
 https://github.com/ozzies-code
+
 
 
 
