@@ -1,4 +1,8 @@
 ![fondogithub](https://github.com/ozzies-code/ozzies-code/assets/83247451/ee219323-0adc-4e33-855e-e828efa6b5b6)
+
+Freelance | 100% Remote| Full Stack Dev | PHP | Javascript | Java | C/C++| .NET | Fuctional Analyst | Administrator-Consultant SQL Data Base | I live in Venezuela 🇻🇪 but I have Dutch nationality 🇳🇱
+
+
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning about php, javascript, c, c++, .net, jquery,  html, css, framewoorks css as bootstrap, bulma, pure, w3.css
 - 👯 I’m Freelancer
