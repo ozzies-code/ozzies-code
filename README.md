@@ -16,22 +16,6 @@ My Professional Skills are Front End Development, Backend development through la
 
 I also provide Consulting and focus on Functional and Software Requirements Analysis as well as SQL Database Management and Version Control through Git and Github.
 
-
-Soy Informático-Computista. Graduado como TSU en Informática y con una Licenciatura en Ciencias de la Computación. 
-
-He trabajado para diferentes empresas entre las que puedo mencionar a: LikeUGroup, Global Consulting Factory, y Global Resources. 
-
-Me he desempeñado desde el 2018 como Desarrollador Front End, Analista BI y Analista Funcional en el Soporte de Aplicaciones. Entonces comprendi que era el momento de convertirme en Emprendedor-Freelance enfocadome como Ingeniero de Software. 
-
-En el 2020 decido crear mi marca Ozzies.Code para dar a conocer el contenido de mi marca y la prestación de mis servicios profesionales orientados al desarrollo web. 
-
-Hoy estoy enfocado en el desarrollo de software y la Gestión de Contenido de Desarrollo y Programación a través de la administración de mis diferentes redes sociales profesionales. 
-
-Mis Competencias Profesionales son el Desarrollo Front End, El desarrollo Backend a través de lenguajes como: PHP, Javascript, Java, además de trabajar con lenguajes como .NET Framework enfocado en Visual Basic y C#, C/C++. 
-
-También doy Consultoria y me enfoco en el Análisis Funcional y de Requerimientos de Software así como la Gestión de Bases de Datos SQL y el Control de Versiones a través de Git y Github.
-
-
 See some of my web projects:
 ![misredes](https://github.com/ozzies-code/ozzies-code/assets/83247451/c02db9d5-e259-4b7c-b0a4-c91b1afeba13)
 
