@@ -1,6 +1,4 @@
-![fondogithub](https://github.com/ozzies-code/ozzies-code/assets/83247451/227e8814-77d4-4997-bcd4-f9a85c4a6887)
-![imagen](https://github.com/ozzies-code/ozzies-code/assets/83247451/68ce0d52-a218-4be6-87da-ac970512a1bb)
-
+![fondogithub](https://github.com/ozzies-code/ozzies-code/assets/83247451/ee219323-0adc-4e33-855e-e828efa6b5b6)
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning about php, javascript, c, c++, .net, jquery,  html, css, framewoorks css as bootstrap, bulma, pure, w3.css
 - 👯 I’m Freelancer
