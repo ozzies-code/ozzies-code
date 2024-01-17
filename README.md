@@ -1,4 +1,7 @@
 ### ![foto_preview](https://github.com/ozzies-code/ozzies-code/assets/83247451/55150f05-936b-45cd-aa2c-d450c468df61)
+
+![fondogithub](https://github.com/ozzies-code/ozzies-code/assets/83247451/227e8814-77d4-4997-bcd4-f9a85c4a6887)
+
 Oswaldo Jesus Marin Pages
 (Ozzies_Code)--------->
 Lic / Ing en Computacion------------>
