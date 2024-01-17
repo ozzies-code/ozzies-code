@@ -21,11 +21,18 @@ web projects in that I am working:
 https://github.com/ozzies-code/misredes3.html
 
 ![menuprincipal](https://github.com/ozzies-code/ozzies-code/assets/83247451/56202684-2041-4c6f-ac0d-74bc4878aa95)
-
+https://github.com/ozzies-code/menuprincipal/blob/2ebcda4a1f720168411f692d4c986fc6b0bc4151/
 
 ![miformulario](https://github.com/ozzies-code/ozzies-code/assets/83247451/9a0a2e12-e91e-4e60-9df6-576ca1922539)
+https://github.com/ozzies-code/FormDesign/blob/main/
 
 https://github.com/ozzies-code
+
+My Professionals Networks:
+https://www.twitter.com/ozzies_code
+https://www.instagram.com/ozzies_code
+https://www.youtube.com/marinpages_nl
+https://www.tiktok.com/ozzies.code
 
 
 
