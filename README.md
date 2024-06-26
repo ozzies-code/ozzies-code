@@ -1,8 +1,8 @@
 ![mini](https://github.com/ozzies-code/ozzies-code/assets/83247451/b9d0acf6-6e98-4f7f-afb8-7f72b64af7ad)
 
 
-Saludos !!! Mi nombre es Oswaldo Jesus Marin Pages (Ozzies.Code) en mis redes. Soy Desarrollador Full Stack
-Freelance | 100% Remote| Full Stack Dev | PHP | Javascript | Java | C/C++| .NET | Administrator-Consultant SQL Data Base | I live in Venezuela 🇻🇪 but I have Dutch nationality 🇳🇱
+Saludos !!! Mi nombre es Oswaldo Jesus Marin Pages (Ozzies.Code) en mis redes. Soy Full Stack Dev
+Freelance | 100% Remote| PHP | Javascript | Java | C/C++| .NET | Administrator-Consultant SQL Data Base | I live in Venezuela 🇻🇪 but I have Dutch nationality 🇳🇱
 
 https://developerandtechnologyozziescode.blogspot.com/ (My Web site)
 
