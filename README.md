@@ -1,4 +1,5 @@
-![dIuXXYA2_400x400](https://github.com/ozzies-code/ozzies-code/assets/83247451/b2628348-b189-487c-93a1-70ee0e776c0f)
+![mini](https://github.com/ozzies-code/ozzies-code/assets/83247451/b9d0acf6-6e98-4f7f-afb8-7f72b64af7ad)
+
 
 
 Freelance | 100% Remote| Full Stack Dev | PHP | Javascript | Java | C/C++| .NET | Fuctional Analyst | Administrator-Consultant SQL Data Base | I live in Venezuela 🇻🇪 but I have Dutch nationality 🇳🇱
