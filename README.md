@@ -3,7 +3,7 @@
 
 Saludos !!! Mi nombre es Oswaldo Jesus Marin Pages (Ozzies.Code) en mis redes. Soy Desarrollador Full Stack
 Freelance | 100% Remote| Full Stack Dev | PHP | Javascript | Java | C/C++| .NET | Administrator-Consultant SQL Data Base | I live in Venezuela 🇻🇪 but I have Dutch nationality 🇳🇱
-
+https://developerandtechnologyozziescode.blogspot.com/
 I am a Computer Scientist. Graduated as TSU in Computer Science and with a Bachelor's Degree in Computer Science. 
 
 I have worked for different companies among which I can mention: LikeUGroup, Global Consulting Factory, and Global Resources. 
