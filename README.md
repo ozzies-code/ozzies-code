@@ -1,5 +1,6 @@
+![mini](https://github.com/ozzies-code/ozzies-code/assets/83247451/b9d0acf6-6e98-4f7f-afb8-7f72b64af7ad) 
 <h1 align="center">Hi 👋, I'm Oswaldo Jesus Marin Pages (ozzies-code)</h1>
-<h3 align="center">A passionate fullstack developer from Venezuela and The Netherlands</h3>
+<h3 align="center">A passionate fullstack developer from Venezuela 🇻🇪 and The Netherlands 🇳🇱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozzies-code&label=Profile%20views&color=0e75b6&style=flat" alt="ozzies-code" /> </p>
 
@@ -9,9 +10,40 @@
 
 - 🔭 I’m currently working on **.NET Framework**
 
+- 🔭 I’m currently working on **.PHP**
+
+- 🔭 I’m currently working on **.Javascript**
+
+- 🔭 I’m currently working on **.Java**
+
+- 🔭 I’m currently working on **.C/C++**
+
+- 🔭 I’m currently working on **.SQL Data Base**
+
 - 🌱 I’m currently learning **Frameworks, Courses, Tutorials and e-books**
 
-- 📫 How to reach me **oswaldojesusmarinpages@gmail.com**
+- 💬 Ask me about Software Development
+
+- 📫 How to reach me **oswaldojmp.nl@proton.me**
+
+- 👨‍💻 All of my projects are available at [https://developerandtechnologyozziescode.blogspot.com/](https://developerandtechnologyozziescode.blogspot.com/) (My Web site)
+
+- 📝 I regularly write articles on [Medium.com/Ozzies.Code](Medium.com/Ozzies.Code)
+
+I am a Computer Scientist. Graduated as TSU in Computer Science and with a Bachelor's Degree in Computer Science. 
+
+I have worked for different companies among which I can mention: LikeUGroup, Global Consulting Factory, and Global Resources. 
+
+I have worked since 2018 as a Front End Developer, BI Analyst and Functional Analyst in Application Support. Then I understood that it was time to become a Freelance Entrepreneur focused as a Software Engineer. 
+
+ In 2020 I decided to create my brand Ozzies.Code to publicize the content of my brand and the provision of my professional services aimed at web development. 
+
+ Today I am focused on software development and Development and Programming Content Management through the administration of my different professional social networks. 
+
+My Professional Skills are Front End Development, Backend development through languages ​​such as: PHP, Javascript, Java, in addition to working with languages ​​such as .NET Framework focused on Visual Basic and C#, C/C++. 
+
+I also provide Consulting and focus on Functional and Software Requirements Analysis as well as SQL Database Management and Version Control through Git and Github.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
