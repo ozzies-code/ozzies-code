@@ -1,6 +1,6 @@
-<img width="860" height="569" alt="3_1716198969-pexels-goumbik-574069" src="https://github.com/user-attachments/assets/0782b16b-f11d-4d03-901c-dc872d74ccdf" />
+<img width="1280" height="853" alt="para-que-sirve-la-informatica-min" src="https://github.com/user-attachments/assets/c59fd67b-2b76-4850-9386-0ccaebcdb491" />
+<img width="1183" height="602" alt="sitio" src="https://github.com/user-attachments/assets/c8aa5335-2977-4a31-bdb2-7c03034593c3" />
 
-![mini](https://github.com/ozzies-code/ozzies-code/assets/83247451/b9d0acf6-6e98-4f7f-afb8-7f72b64af7ad) 
 <h1 align="center">Hi 👋, I'm Oswaldo Jesus Marin Pages (ozzies-code)</h1>
 <h3 align="center">A passionate fullstack developer from Venezuela 🇻🇪 and The Netherlands 🇳🇱</h3>
 
@@ -15,8 +15,6 @@
 - 🔭 I’m currently working on **.Console Projects**
 
 - 🔭 I’m currently working on **.SQL Data Base**
-
-- 🌱 I’m currently learning **Frameworks, Courses, Tutorials and e-books**
 
 - 💬 Ask me about Software Development
 
