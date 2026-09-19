@@ -1,3 +1,5 @@
+<img width="860" height="569" alt="3_1716198969-pexels-goumbik-574069" src="https://github.com/user-attachments/assets/0782b16b-f11d-4d03-901c-dc872d74ccdf" />
+
 ![mini](https://github.com/ozzies-code/ozzies-code/assets/83247451/b9d0acf6-6e98-4f7f-afb8-7f72b64af7ad) 
 <h1 align="center">Hi 👋, I'm Oswaldo Jesus Marin Pages (ozzies-code)</h1>
 <h3 align="center">A passionate fullstack developer from Venezuela 🇻🇪 and The Netherlands 🇳🇱</h3>
