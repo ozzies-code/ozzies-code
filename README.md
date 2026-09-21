@@ -1,3 +1,6 @@
+<img width="1277" height="499" alt="banner-ozzies" src="https://github.com/user-attachments/assets/d43b96a7-59d9-41f7-bf4d-f344022729e5" />
+
+
 <img width="1280" height="853" alt="para-que-sirve-la-informatica-min" src="https://github.com/user-attachments/assets/c59fd67b-2b76-4850-9386-0ccaebcdb491" />
 <img width="1183" height="602" alt="sitio" src="https://github.com/user-attachments/assets/c8aa5335-2977-4a31-bdb2-7c03034593c3" />
 
